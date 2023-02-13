@@ -1,0 +1,132 @@
+.center {
+    width: 1000px;
+    margin:0 auto;
+}
+.fz {
+    font-size: 14px;
+}
+.cRed {
+    color:#FF3232;
+}
+/* 顶部 B */
+.top {
+    height: 47px;
+    background-color: #e9e8e8;
+}
+.top_c {
+    height: 47px;
+    line-height: 47px;
+}
+/* 顶部 E */
+/* logo B */
+.logo {
+    height: 99px;
+    background-color: #d41d05;
+}
+.logo .l_c {
+    height: 99px;
+}
+.logo .l_left h1 a {
+    display: inline-block;
+    width: 221px;
+    height: 97px;
+    background: url(../images/美食美刻——旧.png);
+    text-indent: -9999em;
+}
+.logo .l_center {
+    width:296px;
+    height: 28px;
+    background-color: #fff;
+    padding: 2px;
+    margin-top: -64px;
+    margin-left: 270px;
+    border-radius: 5px;/*设置圆角*/
+}
+.logo .l_center .txt {
+    width: 236px;
+    height: 28px;
+    outline: none;
+}
+.logo .l_center .btn {
+    width: 60px;
+    height: 28px;
+    background-color: #d41d05;
+    color: #fff;
+    margin-top: -28px;
+    border-radius: 5px;
+}
+.logo .l_right {
+    margin-top: -30px;
+}
+.logo .l_right li {
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 20px;
+}
+.logo .l_right a {
+    color: #fff;
+}
+.logo .l_right input {
+    width: 56px;
+    height: 30px;
+    font-size: 14px;
+}
+.logo .l_right li b{
+    display: inline-block;
+    width: 24px;
+    height: 20px;
+    background: url(../images/企鹅图标.jpg);
+    background: url(../images/新浪图标.jpg);
+    vertical-align: middle;
+}
+.logo .l_right .sina {
+    background-position: 0 -27px;
+}
+/* logo E */
+/* 内容 B */
+
+/* 内容 E */
+/* foot B */
+.foot {
+    height: 273px;
+    padding: 10px;
+    background-color:#2F2F2F ;
+}
+.foot .f_border {
+    height: 273px;
+    border: 1px solid #ffd283;
+    border-radius: 25px;
+    position: relative;
+}
+.foot .f_left {
+    margin-top: 55px;
+    color: #ccc;
+}
+.foot .f_left li {
+    height: 33px;    
+    line-height: 33px;
+}
+.foot .f_right {
+    margin-top: -134px;
+}
+.foot .f_right li {
+    float: left;
+    width: 105px;
+    height: 10px;
+    background-color: aqua;
+    margin-left: 20px;
+}
+.foot .f_right li a {
+    display: inline-block;
+    color: #666666;
+    text-align: center;
+
+}
+.foot .f_right img {
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 105px;
+    height: 105px;
+}
+/* foot E */

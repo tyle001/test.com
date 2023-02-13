@@ -1,0 +1,55 @@
+/*内容B*/
+.main {
+    height: 800px;
+}
+.main .m_right {
+    margin-top: 130px;
+    margin-left: -150px;
+}
+.main .m_left {
+    width: 450px;
+    height: 620px;
+    background-color: #fff;
+    margin-left: 85px;
+    margin-top: -1280px;
+    padding: 0 16px;
+}
+.main .m_left h2 {
+    font: normal 400 30px/100px 微软雅黑;
+        height: 100px;
+        padding-left: 25px;
+}
+.main .m_left .uName_pwd input {
+    width: 448px;
+    height: 58px;
+    border: 5px solid #d8d8d8;
+    font-size: 24px;
+}
+.main .m_left .uName_pwd .txt {
+    background-position: 10px -480px;
+}
+.main .m_left .uName_pwd .bth {
+    margin-top: 34px;
+    background-position:10px -538px
+}
+.main .m_left .remember {
+    font-size: 14px;
+    font:normal normal 24px/100px "微软雅黑";
+    height: 100px;
+}
+.main .m_left .remember input {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+}
+.main .m_left .loginBth {
+    width: 450px;
+    height: 60px;
+    background-color: red;
+    font-size: 24px;
+    color: #fff;
+}
+.main .m_left .other {
+    font:normal normal 18px/100px "微软雅黑";
+}
+/*内容E*/
